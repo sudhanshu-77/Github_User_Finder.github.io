@@ -1,7 +1,7 @@
 # Github-User-Finder-Project..
 
 
-The site is live at [here](https://sudhanshu-77.github.io/Unit-Converter-Project/).
+The site is live at [here](https://sudhanshu-77.github.io/Github_User_Finder.github.io/).
 
 
 ### In this project I have used github open API which do not require any authentication to access the data.
