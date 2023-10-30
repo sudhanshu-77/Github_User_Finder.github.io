@@ -1,4 +1,4 @@
-## <p align="center"> Github-User-Finder:</p>
+## <p align="center"> Github-User-Finder</p>
 
 
 # In this project I have used github open API which do not require any authentication to access the data..
